@@ -544,14 +544,12 @@ header .cta {
 }
 
 .subsribe__form input[type=email] {
-  width: 100%;
-  background: #f6ebe8;
-  border: none;
-  border-radius: 50%;
-  color: #000;
-  padding: 0 32px;
-  font-size: 12px;
-  width: 80%;
+  width:       100%;
+  background:  #f6ebe8;
+  border:      none;
+  color:       #000;
+  padding:     0 32px;
+  font-size:   12px;
   line-height: 70px;
 }
 
