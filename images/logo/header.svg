@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2009px" height="424px" viewBox="0 0 2009 424" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="201" y="0" width="216" height="216"></rect>
+    </defs>
+    <g id="----------" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-332.000000, -138.000000)">
+        <g id="logo" transform="translate(338.000000, 138.000000)">
+            <g id="Rectangle">
+                <use fill="#AA4022" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#AA4022" stroke-width="11" x="206.5" y="5.5" width="205" height="205"></rect>
+            </g>
+            <circle id="Oval" stroke="#12242B" stroke-width="11" fill="#000000" cx="155.5" cy="262.5" r="155.5"></circle>
+            <polygon id="Triangle" fill="#AA4022" points="358.5 301 420 395 297 395"></polygon>
+            <text id="SUPREMATISM" font-family="Roboto-Black, Roboto" font-size="220" font-weight="700" letter-spacing="-5.0999999" fill="#000000">
+                <tspan x="505.022656" y="378">SUPREMATISM</tspan>
+            </text>
+            <text id="The" font-family="Roboto-Thin, Roboto" font-size="160" font-style="condensed" font-weight="300" letter-spacing="-5.0999999" fill="#000000">
+                <tspan x="505.235937" y="158">The</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
