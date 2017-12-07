@@ -204,6 +204,85 @@ header li a {
   font-weight: 500;
   padding: 0 12px;
   color: #000;
+  text-decoration: none;
+}
+
+header .ctas {
+  position: absolute;
+  right: 0;
+  top: 5px;
+}
+
+header .cta {
+  /* color:           #fff;
+  background:      #aa4022; */
+  font-weight: 500;
+  margin-left: 10px;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+  line-height: 34px;
+  transition: box-shadow 200ms ease-in-out;
+  padding: 0 20px;
+}
+
+.headroom--unpinned header .ctas .btn-primary,
+.headroom--not-top header .ctas .btn-primary {
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 4px 4px 0;
+}
+
+.banner-wrapper {
+  padding: 0;
+  text-align: center;
+  position: fixed;
+  margin: 0 auto;
+  transition: top 200ms ease;
+  z-index: 1;
+  position: fixed;
+  top: 120px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  left: 0;
+}
+
+.banner {
+  display: inline-block;
+  background: #fffbef;
+}
+
+.banner a {
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+  font-weight: 200;
+}
+
+.banner a:hover {
+  text-decoration: underline;
+}
+
+.banner strong {
+  background: #aa4022;
+  color: #fff;
+  display: inline-block;
+  padding: 4px 8px;
+  font-weight: 500;
+  line-height: 26px;
+  margin: 2px;
+  font-size: 12px
+}
+
+.banner span {
+  line-height: 30px;
+}
+
+.banner img {
+  line-height: 30px;
+  margin: 0 16px 0;
+}
+
+.section--primary {
   margin: 120px auto 40px;
 }
 
@@ -241,6 +320,40 @@ header li a {
 
 .section-header p {
   margin: 40px auto;
+  color: #000;
+}
+
+.mission__image {
+  margin-top: 115px;
+}
+
+.mission__list-items {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.mission__list-item {
+  margin: 0;
+  padding: 24px;
+  background-color: #fff;
+  transition: background-color 200ms ease;
+}
+
+.mission__list-item:hover {
+  background-color: #fffbef;
+}
+
+.mission__list-item h3 {
+  margin: 0 0 20px;
+  font-size: 34px;
+  line-height: 46px;
+  font-weight: 900;
+  color: #aa4022;
+}
+
+.mission__list-item p {
+  margin: 0;
   color: #000;
 }
 
