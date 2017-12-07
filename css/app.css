@@ -180,6 +180,10 @@ header {
   transition: margin 200ms ease-in-out;
 }
 
+small {
+  line-height: 1;
+}
+
 header img {
   position: absolute;
   left: 0;
